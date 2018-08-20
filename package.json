@@ -1,0 +1,16 @@
+{
+  "name": "autofill_project",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^1.5.1",
+    "@rails/webpacker": "3.5",
+    "axios": "^0.18.0",
+    "babel-preset-react": "^6.24.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
